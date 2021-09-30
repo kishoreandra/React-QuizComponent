@@ -1,6 +1,6 @@
 import React,{Component} from 'react'
 
-class QuiEnd extends Component{
+class QuizEnd extends Component{
     render(){
         return(
             <div>
@@ -11,4 +11,4 @@ class QuiEnd extends Component{
     }
 }
 
-export default QuiEnd;
+export default QuizEnd;
